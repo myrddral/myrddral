@@ -1,5 +1,4 @@
-### Hi there 👋
-
+![alt text](https://cr-skills-chart-widget.azurewebsites.net/api/api?username=myrddral)
 <!--
 **myrddral/myrddral** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
