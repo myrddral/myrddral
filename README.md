@@ -12,5 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on a restaurant manager application.
+- 🔭 I’m currently working on a restaurant manager application in React, that uses Firestore as DB and utilizes a connecion with a USB scale over webHID API to get the desired data for the actual stock of drinks.
+
 - 🌱 I’m currently learning nodeJS, expressJS and mongoDB alongside ReactJS
