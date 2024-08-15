@@ -1,7 +1,7 @@
 ### I currently work on a pet project, a CV generator app using Next.js 
 The user can input their relevant data in a multi-step form, and turn it into a formatted CV in PDF format.
    
-👉 [Check out the deployed preview](https://cvgenerator-nextjs-hu-git-preview-attilabelis-projects.vercel.app/?_vercel_share=qOy9mU1x4qEKI6utS4so3nWwr6T5cjk8)
+👉 [Check out the deployed preview](cvgenerator-nextjs-hu.vercel.app/)
     
 👉 [Take a look at the source code](https://github.com/myrddral/cvgenerator-nextjs-hu)
 
