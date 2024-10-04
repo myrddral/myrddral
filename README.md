@@ -1,10 +1,7 @@
-### I currently work on a pet project, a CV generator app using Next.js 
-The user can input their relevant data in a multi-step form, and turn it into a formatted CV in PDF format.
-   
-👉 [Check out the deployed app](https://cvgenerator-nextjs-hu.vercel.app/)
-    
-👉 [Take a look at the source code](https://github.com/myrddral/cvgenerator-nextjs-hu)
-
+### I currently work on:
+ - my pet project, a CV generator web app using Next.js 👉 [cv/gen - dev resume generator](https://cvgenerator-nextjs-hu.vercel.app/)
+ - a landing page and admin UI for an e-commerce app 👉 [Inkarno](https://inkarno.art)
+ - a video tutorial site for a coding academy, complete with integration to existing spring boot API (link soon)
 ---
 
 Want to work with me? Cool! I'm experienced with...
