@@ -2,6 +2,7 @@
  - my pet project, a CV generator web app using Next.js 👉 [cv/gen - dev resume generator](https://cvgenerator-nextjs-hu.vercel.app/)
  - a landing page and admin UI for an e-commerce app 👉 [Inkarno](https://inkarno.art)
  - a video tutorial site for a coding academy, complete with integration to existing spring boot API (link soon)
+ - my portfolio page... I bought the domain ages ago but I'm not sure if I get to start the development during my lifetime... 🫣😅
 ---
 
 Want to work with me? Cool! I'm experienced with...
